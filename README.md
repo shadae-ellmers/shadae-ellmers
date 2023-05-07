@@ -1,6 +1,6 @@
 # Oh hello there 👋
 
-- 👩‍🎓 Dev Academy soon-to-be grad
+- 👩‍🎓 Dev Academy grad
 - 🌱 currently building up my portfolio
 - 💻 skills in React, Redux, JavaScript, and Typescript
 - 🖌️ love to be creative ➡️ css, portrait drawing, sewing, reading
