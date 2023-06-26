@@ -5,5 +5,5 @@
 - 💻 skills in React, Redux, JavaScript, and Typescript
 - 🖌️ love to be creative ➡️ css, portrait drawing, sewing, reading
 - 🐶 my assistant: Scofield the cavoodle
-- 📚 currently reading The Knife of Never Letting Go by Patrick Ness
+- 📚 currently reading Tender is the Flesh by Agustina Bazterrica
 - 📫 contact me @ shadaejadeellmers@gmail.com 
