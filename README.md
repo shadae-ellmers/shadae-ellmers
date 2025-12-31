@@ -7,4 +7,4 @@ I’m Shadae — an **Intermediate Software Developer** who turns caffeine and c
 - 📚 Book lover - primarily fantasy and horror
 - 🏋️‍♀️ I lift things up and put them down, mostly for fun
 - 🐶 Assisted daily by Scofield the cavoodle, professional attention seeker  
-- 📫 Reach me at shadaejadeellmers@gmail.com
+- 📫 Reach me at shadae.ell@gmail.com
